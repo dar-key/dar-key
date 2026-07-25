@@ -9,3 +9,5 @@ Python Automation Engineer
 • Google Sheets Automation
 
 • APIs
+
+[![Telegram](https://shields.io)](https://t.me/induqq)
