@@ -4,11 +4,11 @@ I'm a Python Automation Engineer specializing in building automation tools that 
 
 ### What I build
 
-- 🤖 Telegram bots
-- 🌐 Web scraping
-- 🎭 Browser automation with Playwright
-- 📊 Google Sheets automation
-- 🔌 REST API integrations
+- Telegram bots
+- Web scraping
+- Browser automation with Playwright
+- Google Sheets automation
+- REST API integrations
 
 ### Contact
 
